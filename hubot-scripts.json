@@ -1,5 +1,4 @@
 [
-  "ackbar.coffee",
   "ascii.coffee",
   "cheer.coffee",
   "google.coffee",
@@ -16,6 +15,5 @@
   "tweet.coffee",
   "weather.coffee",
   "wikipedia.coffee",
-  "wolfram.coffee",
   "xkcd.coffee"
 ]
