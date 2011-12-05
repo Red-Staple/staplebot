@@ -2,7 +2,6 @@
   "ackbar.coffee",
   "ascii.coffee",
   "cheer.coffee",
-  //"github-issues.coffee", <-- TODO: get oauth token
   "google.coffee",
   "haters.coffee",
   "kittens.coffee",
