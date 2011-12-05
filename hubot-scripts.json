@@ -1,1 +1,22 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "ackbar.coffee",
+  "ascii.coffee",
+  "cheer.coffee",
+  //"github-issues.coffee", <-- TODO: get oauth token
+  "google.coffee",
+  "haters.coffee",
+  "kittens.coffee",
+  "lastfm_np.coffee",
+  "lyrics.coffee",
+  "meme_generator.coffee",
+  "octocat.coffee",
+  "redis-brain.coffee",
+  "rotten.coffee",
+  "shipit.coffee",
+  "spotify.coffee",
+  "tweet.coffee",
+  "weather.coffee",
+  "wikipedia.coffee",
+  "wolfram.coffee",
+  "xkcd.coffee"
+]
